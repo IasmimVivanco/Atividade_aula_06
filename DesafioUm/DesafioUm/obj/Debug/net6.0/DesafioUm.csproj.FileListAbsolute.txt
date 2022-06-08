@@ -1,0 +1,15 @@
+C:\Users\ingridg\Documents\DIGITAL HOUSE\Visual Studio\Aula06\Atividade_aula_06\DesafioUm\DesafioUm\bin\Debug\net6.0\DesafioUm.exe
+C:\Users\ingridg\Documents\DIGITAL HOUSE\Visual Studio\Aula06\Atividade_aula_06\DesafioUm\DesafioUm\bin\Debug\net6.0\DesafioUm.deps.json
+C:\Users\ingridg\Documents\DIGITAL HOUSE\Visual Studio\Aula06\Atividade_aula_06\DesafioUm\DesafioUm\bin\Debug\net6.0\DesafioUm.runtimeconfig.json
+C:\Users\ingridg\Documents\DIGITAL HOUSE\Visual Studio\Aula06\Atividade_aula_06\DesafioUm\DesafioUm\bin\Debug\net6.0\DesafioUm.dll
+C:\Users\ingridg\Documents\DIGITAL HOUSE\Visual Studio\Aula06\Atividade_aula_06\DesafioUm\DesafioUm\bin\Debug\net6.0\DesafioUm.pdb
+C:\Users\ingridg\Documents\DIGITAL HOUSE\Visual Studio\Aula06\Atividade_aula_06\DesafioUm\DesafioUm\obj\Debug\net6.0\DesafioUm.csproj.AssemblyReference.cache
+C:\Users\ingridg\Documents\DIGITAL HOUSE\Visual Studio\Aula06\Atividade_aula_06\DesafioUm\DesafioUm\obj\Debug\net6.0\DesafioUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ingridg\Documents\DIGITAL HOUSE\Visual Studio\Aula06\Atividade_aula_06\DesafioUm\DesafioUm\obj\Debug\net6.0\DesafioUm.AssemblyInfoInputs.cache
+C:\Users\ingridg\Documents\DIGITAL HOUSE\Visual Studio\Aula06\Atividade_aula_06\DesafioUm\DesafioUm\obj\Debug\net6.0\DesafioUm.AssemblyInfo.cs
+C:\Users\ingridg\Documents\DIGITAL HOUSE\Visual Studio\Aula06\Atividade_aula_06\DesafioUm\DesafioUm\obj\Debug\net6.0\DesafioUm.csproj.CoreCompileInputs.cache
+C:\Users\ingridg\Documents\DIGITAL HOUSE\Visual Studio\Aula06\Atividade_aula_06\DesafioUm\DesafioUm\obj\Debug\net6.0\DesafioUm.dll
+C:\Users\ingridg\Documents\DIGITAL HOUSE\Visual Studio\Aula06\Atividade_aula_06\DesafioUm\DesafioUm\obj\Debug\net6.0\refint\DesafioUm.dll
+C:\Users\ingridg\Documents\DIGITAL HOUSE\Visual Studio\Aula06\Atividade_aula_06\DesafioUm\DesafioUm\obj\Debug\net6.0\DesafioUm.pdb
+C:\Users\ingridg\Documents\DIGITAL HOUSE\Visual Studio\Aula06\Atividade_aula_06\DesafioUm\DesafioUm\obj\Debug\net6.0\DesafioUm.genruntimeconfig.cache
+C:\Users\ingridg\Documents\DIGITAL HOUSE\Visual Studio\Aula06\Atividade_aula_06\DesafioUm\DesafioUm\obj\Debug\net6.0\ref\DesafioUm.dll
