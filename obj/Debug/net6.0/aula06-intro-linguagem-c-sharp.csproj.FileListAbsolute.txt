@@ -1,0 +1,15 @@
+C:\aula06\aula06-intro-linguagem-c-sharp\bin\Debug\net6.0\aula06-intro-linguagem-c-sharp.exe
+C:\aula06\aula06-intro-linguagem-c-sharp\bin\Debug\net6.0\aula06-intro-linguagem-c-sharp.deps.json
+C:\aula06\aula06-intro-linguagem-c-sharp\bin\Debug\net6.0\aula06-intro-linguagem-c-sharp.runtimeconfig.json
+C:\aula06\aula06-intro-linguagem-c-sharp\bin\Debug\net6.0\aula06-intro-linguagem-c-sharp.dll
+C:\aula06\aula06-intro-linguagem-c-sharp\bin\Debug\net6.0\aula06-intro-linguagem-c-sharp.pdb
+C:\aula06\aula06-intro-linguagem-c-sharp\obj\Debug\net6.0\aula06-intro-linguagem-c-sharp.csproj.AssemblyReference.cache
+C:\aula06\aula06-intro-linguagem-c-sharp\obj\Debug\net6.0\aula06-intro-linguagem-c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\aula06\aula06-intro-linguagem-c-sharp\obj\Debug\net6.0\aula06-intro-linguagem-c-sharp.AssemblyInfoInputs.cache
+C:\aula06\aula06-intro-linguagem-c-sharp\obj\Debug\net6.0\aula06-intro-linguagem-c-sharp.AssemblyInfo.cs
+C:\aula06\aula06-intro-linguagem-c-sharp\obj\Debug\net6.0\aula06-intro-linguagem-c-sharp.csproj.CoreCompileInputs.cache
+C:\aula06\aula06-intro-linguagem-c-sharp\obj\Debug\net6.0\aula06-intro-linguagem-c-sharp.dll
+C:\aula06\aula06-intro-linguagem-c-sharp\obj\Debug\net6.0\refint\aula06-intro-linguagem-c-sharp.dll
+C:\aula06\aula06-intro-linguagem-c-sharp\obj\Debug\net6.0\aula06-intro-linguagem-c-sharp.pdb
+C:\aula06\aula06-intro-linguagem-c-sharp\obj\Debug\net6.0\aula06-intro-linguagem-c-sharp.genruntimeconfig.cache
+C:\aula06\aula06-intro-linguagem-c-sharp\obj\Debug\net6.0\ref\aula06-intro-linguagem-c-sharp.dll
