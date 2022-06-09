@@ -23,8 +23,8 @@
 
 
 [ ] Ternário, comparação e lógico, Console.Write() e Console.Read().\
-[x] Aritméticos de atribuição, Console.Write() e Console.Read().\
-[ ] Aritméticos, Console.Write() e Console.Read().\
+[ ] Aritméticos de atribuição, Console.Write() e Console.Read().\
+[x] Aritméticos, Console.Write() e Console.Read().\
 [ ] Apenas aritméticos.
 
 ## 3. Responda, porque a variável quilometrosPercorridosPeloVeiculo não foi declarada com const?
