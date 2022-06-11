@@ -22,6 +22,7 @@ float totalMilhas;
 Console.WriteLine("Digite o seu quilometros Percorridos:");
 quilometrosPercorridosPeloVeiculo = Convert.ToInt32(Console.ReadLine());
 
+
 totalMilhas = quilometrosPercorridosPeloVeiculo * milhas;
 
 Console.WriteLine("Seu veículo percorreu um total de " + totalMilhas  + " milhas.");
